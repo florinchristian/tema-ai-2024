@@ -1,0 +1,44 @@
+{
+    "New York": {
+        "Los Angeles": 2451,
+        "Chicago": 713,
+        "Houston": 1420,
+        "Phoenix": 2145,
+        "Philadelphia": 81
+    },
+    "Los Angeles": {
+        "New York": 2451,
+        "Chicago": 1745,
+        "Houston": 1374,
+        "Phoenix": 357,
+        "Philadelphia": 2511
+    },
+    "Chicago": {
+        "New York": 713,
+        "Los Angeles": 1745,
+        "Houston": 925,
+        "Phoenix": 1440,
+        "Philadelphia": 664
+    },
+    "Houston": {
+        "New York": 1420,
+        "Los Angeles": 1374,
+        "Chicago": 925,
+        "Phoenix": 1015,
+        "Philadelphia": 1327
+    },
+    "Phoenix": {
+        "New York": 2145,
+        "Los Angeles": 357,
+        "Chicago": 1440,
+        "Houston": 1015,
+        "Philadelphia": 2073
+    },
+    "Philadelphia": {
+        "New York": 81,
+        "Los Angeles": 2511,
+        "Chicago": 664,
+        "Houston": 1327,
+        "Phoenix": 2073
+    }
+}
